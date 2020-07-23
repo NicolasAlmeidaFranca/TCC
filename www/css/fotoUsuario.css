@@ -47,6 +47,14 @@
   }
  /* =================================================== */ 
 
+  /* ====================== BOTÃO VOLTAR ================== */
+#voltar img {
+  width: 32px;
+  height: 32px;
+  margin-left: -320px;
+  margin-top: -2px;
+}
+
 /* ======================== SUBTÍTULO ==================== */
 h5 {
   text-transform: uppercase;

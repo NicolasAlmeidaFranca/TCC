@@ -75,7 +75,7 @@ div.menu{
     overflow-x: hidden;
     overflow-y: auto;
     height: 100%;
-    background: #badaf3;
+    background: #28386b;
     position: fixed;
     left: 0;
     top: 0;
@@ -96,14 +96,14 @@ div.menu{
 #btn{
   background-color: transparent;
   border-color: transparent;
-  color: #28386b;
+  color: #badaf3;
 }
 #btn:link{
   text-decoration:none;
 }
 
 #hr{
-  border-color: #28386b;
+  border-color: #badaf3;
 }
 /* ===================================================== */
 
