@@ -75,10 +75,10 @@ h1{
 /* ======================== BOTÕES ==================== */
 
 .btnEscuro {
-  margin-left: -20px;
+  margin-left: -15px;
   width: 120px;
   text-align: center;
-  margin-top: 2%;
+  margin-top: -15%;
   box-shadow: 0 4px rgba(0,0,0,0.2);
 	background-color:#28386b;
 	border-radius:14px;
@@ -86,9 +86,9 @@ h1{
 	display:block;
 	color: #badaf3;
 	font-family:Confortaa;
-	font-size:13px;
+	font-size:14px;
 	font-weight:bold;
-	padding:7.5px 2px;
+	padding:8px 2px;
   text-transform: uppercase;
 }
 .btnEscuro:active {
@@ -103,10 +103,10 @@ a.btnEscuro:link{
 }
 
 .btnClaro {
-  margin-left: 62px;
+  margin-left: 60px;
   width: 120px;
   text-align: center;
-  margin-top: 3%;
+  margin-top: -12%;
   box-shadow: 0 4px rgba(0,0,0,0.2);
 	background-color:#badaf3;
 	border-radius:14px;
@@ -114,19 +114,19 @@ a.btnEscuro:link{
 	display:block;
 	color: #28386b;
 	font-family:Confortaa;
-	font-size:13px;
+	font-size:14px;
 	font-weight:bold;
 	padding:7px 2px;
   text-transform: uppercase;
 }
-.btnEscuro:active {
+.btnClaro:active {
   box-shadow: none;
 	position:relative;
 }
-.btnEscuro:hover {
-  color:#badaf3;
+.btnClaro:hover {
+  color:#28386b;
 }
-a.btnEscuro:link{
+a.btnClaro:link{
   text-decoration:none;
 }
 /* ===================================================== */
